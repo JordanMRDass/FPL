@@ -1,0 +1,611 @@
+Number,Players,Clean name,Influence,Creativity,Threat,ICT index,Team
+263,Jesus,jesus,11.0,16.5,66.0,9.4,Man City
+22,Saka,saka,23.6,41.1,28.0,9.3,Arsenal
+174,Iwobi,iwobi,42.0,23.3,23.0,8.8,Everton
+449,Rashica,rashica,19.6,29.3,38.0,8.7,Norwich
+269,Cavani,cavani,34.6,3.0,47.0,8.5,Man Utd
+430,Jiménez,jimenez,33.6,4.7,47.0,8.5,Wolves
+266,Rodrigo,rodrigo,26.2,33.8,25.0,8.5,Man City
+23,Gabriel,gabriel,51.2,0.1,33.0,8.4,Arsenal
+21,Smith Rowe,smith rowe,39.6,27.2,17.0,8.4,Arsenal
+482,Townsend,townsend,23.2,58.8,2.0,8.4,Everton
+40,Watkins,watkins,44.2,2.7,34.0,8.1,Aston Villa
+425,Johnson,johnson,62.0,1.2,17.0,8.0,West Ham
+53,Lallana,lallana,36.4,23.6,19.0,7.9,Brighton
+85,Ghoddos,ghoddos,41.0,11.5,25.0,7.8,Brentford
+187,Rodrigo,rodrigo,38.6,13.0,26.0,7.8,Leeds
+60,March,march,31.2,25.8,21.0,7.8,Brighton
+169,Keane,keane,46.8,10.8,19.0,7.7,Everton
+277,Fernandes,fernandes,33.6,38.9,4.0,7.7,Man Utd
+345,Adams,adams,33.2,11.4,32.0,7.7,Southampton
+222,Henderson,henderson,45.8,13.6,16.0,7.5,Liverpool
+525,A.Armstrong,a.armstrong,10.2,21.5,43.0,7.5,Southampton
+154,Zaha,zaha,41.0,11.5,21.0,7.4,Crystal Palace
+439,Kilman,kilman,55.2,1.0,17.0,7.3,Wolves
+4,Aubameyang,aubameyang,15.8,3.0,52.0,7.1,Arsenal
+331,Omobamidele,omobamidele,51.8,0.9,17.0,7.0,Norwich
+462,Mwepu,mwepu,48.0,4.7,17.0,7.0,Brighton
+227,Chamberlain,chamberlain,29.4,29.8,11.0,7.0,Liverpool
+131,Ziyech,ziyech,1.0,24.1,45.0,7.0,Chelsea
+492,Bailey,bailey,14.8,2.7,51.0,6.9,Aston Villa
+123,Jorginho,jorginho,41.6,7.8,18.0,6.7,Chelsea
+141,Havertz,havertz,9.6,15.0,39.0,6.4,Chelsea
+140,Hudson-Odoi,hudson-odoi,13.4,42.2,8.0,6.4,Chelsea
+461,Trincão,trincao,12.0,17.0,35.0,6.4,Wolves
+468,King,king,8.8,41.7,12.0,6.3,Watford
+335,Romeu,romeu,14.2,26.3,22.0,6.3,Southampton
+318,McLean,mclean,12.8,1.4,49.0,6.3,Norwich
+180,Richarlison,richarlison,3.4,11.3,47.0,6.2,Everton
+342,Walker-Peters,walker-peters,23.0,28.7,10.0,6.2,Southampton
+228,Firmino,firmino,4.2,23.3,33.0,6.1,Liverpool
+578,Cornet,cornet,37.8,16.0,7.0,6.1,Burnley
+470,Ait Nouri,ait nouri,26.4,34.3,0.0,6.1,Wolves
+336,Redmond,redmond,12.8,30.3,18.0,6.1,Southampton
+256,Cancelo,cancelo,9.4,5.3,44.0,5.9,Man City
+77,Nørgaard,nørgaard,33.4,15.1,10.0,5.9,Brentford
+287,James,james,20.2,11.8,26.0,5.8,Leeds
+201,Evans,evans,20.8,1.2,35.0,5.7,Leicester
+422,Soucek,soucek,15.6,3.4,36.0,5.5,West Ham
+288,Wan-Bissaka,wan-bissaka,12.4,16.9,26.0,5.5,Man Utd
+39,Targett,targett,23.0,31.0,0.0,5.4,Aston Villa
+372,Lo Celso,lo celso,10.6,21.3,22.0,5.4,Spurs
+359,Son,son,9.2,24.3,18.0,5.2,Spurs
+267,Harrison,harrison,4.6,21.6,26.0,5.2,Leeds
+113,Taylor,taylor,32.4,18.6,1.0,5.2,Burnley
+419,Benrahma,benrahma,20.8,22.3,9.0,5.2,West Ham
+559,Ramsdale,ramsdale,50.8,0.0,0.0,5.1,Arsenal
+413,Antonio,antonio,2.8,13.9,34.0,5.1,West Ham
+411,Cresswell,cresswell,14.8,28.2,8.0,5.1,West Ham
+281,Rashford,rashford,32.0,0.5,17.0,5.0,Man Utd
+191,Phillips,phillips,26.8,22.3,0.0,4.9,Leeds
+188,Dallas,dallas,18.4,14.7,16.0,4.9,Leeds
+293,Clark,clark,29.6,14.2,4.0,4.8,Newcastle
+135,Chilwell,chilwell,8.6,32.2,6.0,4.7,Chelsea
+503,Gordon,gordon,7.4,4.8,35.0,4.7,Everton
+588,Emerson Royal,emerson royal,21.8,17.7,6.0,4.6,Spurs
+429,Coady,coady,23.6,3.2,18.0,4.5,Wolves
+362,Lucas Moura,lucas moura,18.0,26.5,0.0,4.5,Spurs
+81,Canós,canos,10.6,16.8,18.0,4.5,Brentford
+484,Gray,gray,0.6,12.8,32.0,4.5,Everton
+265,Foden,foden,6.2,33.4,4.0,4.4,Man City
+108,Gudmundsson,gudmundsson,4.6,16.0,23.0,4.4,Burnley
+118,McNeil,mcneil,26.8,14.9,2.0,4.4,Burnley
+107,Westwood,westwood,12.0,30.0,2.0,4.4,Burnley
+209,Castagne,castagne,19.4,20.0,4.0,4.3,Leicester
+274,Fred,fred,18.6,13.2,11.0,4.3,Man Utd
+302,Manquillo,manquillo,14.8,10.8,17.0,4.3,Newcastle
+78,Toney,toney,0.0,0.4,43.0,4.3,Brentford
+517,Elyounoussi,elyounoussi,7.4,14.3,20.0,4.2,Southampton
+212,Maddison,maddison,5.2,20.1,17.0,4.2,Leicester
+584,Cucurella,cucurella,15.4,17.7,9.0,4.2,Brighton
+205,Vardy,vardy,4.6,22.7,14.0,4.1,Leicester
+343,Bednarek,bednarek,22.0,0.4,18.0,4.0,Southampton
+165,Coleman,coleman,20.0,2.2,18.0,4.0,Everton
+341,Ward-Prowse,ward-prowse,11.4,28.4,0.0,4.0,Southampton
+127,Rüdiger,rudiger,9.4,10.8,19.0,3.9,Chelsea
+436,Neves,neves,17.2,3.6,18.0,3.9,Wolves
+179,Godfrey,godfrey,7.4,12.1,18.0,3.8,Everton
+323,Dowell,dowell,9.8,26.2,1.0,3.7,Norwich
+86,Jensen,jensen,9.0,25.7,2.0,3.7,Brentford
+379,Cathcart,cathcart,36.6,0.5,0.0,3.7,Watford
+390,Masina,masina,21.4,15.0,1.0,3.7,Watford
+275,Shaw,shaw,17.6,17.1,2.0,3.7,Man Utd
+237,Alexander-Arnold,alexander-arnold,16.2,15.8,5.0,3.7,Liverpool
+354,Sissoko,sissoko,23.6,12.1,0.0,3.6,Watford
+558,Ødegaard,ødegaard,10.0,22.0,4.0,3.6,Arsenal
+148,McArthur,mcarthur,21.0,12.6,1.0,3.5,Crystal Palace
+133,Christensen,christensen,17.0,18.4,0.0,3.5,Chelsea
+416,Lanzini,lanzini,16.4,13.3,5.0,3.5,West Ham
+271,Matic,matic,20.8,13.3,0.0,3.4,Man Utd
+326,Aarons,aarons,8.6,4.8,20.0,3.3,Norwich
+357,Kane,kane,5.2,3.9,24.0,3.3,Spurs
+399,Sarr,sarr,5.2,5.0,23.0,3.3,Watford
+43,Buendía,buendia,19.0,12.1,2.0,3.3,Aston Villa
+52,Young,young,14.8,16.2,2.0,3.3,Aston Villa
+30,Martínez,martinez,31.8,0.0,0.0,3.2,Aston Villa
+98,Tarkowski,tarkowski,24.4,0.3,7.0,3.2,Burnley
+219,Thomas,thomas,8.4,14.8,8.0,3.1,Leicester
+35,McGinn,mcginn,6.8,15.3,9.0,3.1,Aston Villa
+587,Lookman,lookman,7.8,2.8,19.0,3.0,Leicester
+251,De Bruyne,de bruyne,2.0,3.8,24.0,3.0,Man City
+581,Normann,normann,14.0,14.0,2.0,3.0,Norwich
+437,Semedo,semedo,12.2,13.4,4.0,3.0,Wolves
+234,Robertson,robertson,11.8,12.6,6.0,3.0,Liverpool
+552,Forshaw,forshaw,8.8,20.5,0.0,2.9,Leeds
+231,Alisson,alisson,28.6,0.0,0.0,2.9,Liverpool
+474,Ward,ward,28.6,0.5,0.0,2.9,Crystal Palace
+121,Thiago Silva,thiago silva,24.0,5.2,0.0,2.9,Chelsea
+464,Olise,olise,16.4,10.6,2.0,2.9,Crystal Palace
+426,Moutinho,moutinho,14.8,14.2,0.0,2.9,Wolves
+292,Ritchie,ritchie,11.0,18.3,0.0,2.9,Newcastle
+466,Tavares,tavares,7.8,1.9,18.0,2.8,Arsenal
+262,Dias,dias,22.8,3.3,2.0,2.8,Man City
+319,Hanley,hanley,14.8,13.2,0.0,2.8,Norwich
+130,Kanté,kante,7.6,7.8,12.0,2.7,Chelsea
+132,Loftus-Cheek,loftus-cheek,5.8,3.4,18.0,2.7,Chelsea
+475,Sá,sa,27.2,0.0,0.0,2.7,Wolves
+56,Duffy,duffy,22.4,0.4,4.0,2.7,Brighton
+285,McTominay,mctominay,16.0,2.5,8.0,2.7,Man Utd
+115,Brownhill,brownhill,15.0,12.3,0.0,2.7,Burnley
+261,Bernardo,bernardo,5.0,7.0,14.0,2.6,Man City
+200,Schmeichel,schmeichel,26.2,0.0,0.0,2.6,Leicester
+59,Dunk,dunk,23.8,0.4,2.0,2.6,Brighton
+36,Hause,hause,21.6,0.3,4.0,2.6,Aston Villa
+190,Llorente,llorente,21.4,0.3,4.0,2.6,Leeds
+217,Söyüncü,soyuncu,20.6,3.0,2.0,2.6,Leicester
+70,Bissouma,bissouma,15.0,1.3,9.0,2.5,Brighton
+307,Saint-Maximin,saint-maximin,3.2,2.3,18.0,2.4,Newcastle
+351,Salisu,salisu,22.2,1.6,0.0,2.4,Southampton
+106,Mee,mee,17.6,0.3,6.0,2.4,Burnley
+299,Lascelles,lascelles,17.4,0.3,6.0,2.4,Newcastle
+88,Forss,forss,1.8,0.3,22.0,2.4,Brentford
+431,Saïss,saiss,20.2,3.0,0.0,2.3,Wolves
+243,Konaté,konate,18.0,1.0,4.0,2.3,Liverpool
+365,Højbjerg,højbjerg,15.2,5.3,2.0,2.3,Spurs
+255,Sterling,sterling,3.0,14.8,4.0,2.2,Man City
+146,Guaita,guaita,22.4,0.0,0.0,2.2,Crystal Palace
+198,Struijk,struijk,22.0,0.3,0.0,2.2,Leeds
+491,Livramento,livramento,14.2,2.0,6.0,2.2,Southampton
+15,Partey,partey,10.8,1.9,9.0,2.2,Arsenal
+583,Hwang,hwang,10.0,4.2,8.0,2.2,Wolves
+309,S.Longstaff,s.longstaff,9.8,1.0,10.0,2.1,Newcastle
+381,Cleverley,cleverley,5.6,15.4,0.0,2.1,Watford
+590,Tomiyasu,tomiyasu,17.4,1.5,2.0,2.1,Arsenal
+361,Dier,dier,14.4,0.7,6.0,2.1,Spurs
+163,Delph,delph,8.4,3.8,8.0,2.0,Everton
+395,Fletcher,fletcher,3.0,0.0,17.0,2.0,Watford
+334,McCarthy,mccarthy,20.2,0.0,0.0,2.0,Southampton
+273,Maguire,maguire,18.6,1.8,0.0,2.0,Man Utd
+178,Holgate,holgate,15.4,0.4,4.0,2.0,Everton
+477,Guéhi,guehi,15.4,0.3,4.0,2.0,Crystal Palace
+420,Bowen,bowen,51.2,25.8,115.0,19.2,West Ham
+142,James,james,84.4,43.9,53.0,18.1,Chelsea
+144,Gallagher,gallagher,76.8,49.5,34.0,16.0,Crystal Palace
+196,Raphinha,raphinha,50.2,41.5,61.0,15.3,Leeds
+421,Rice,rice,73.4,25.2,48.0,14.7,West Ham
+579,Ronaldo,ronaldo,53.8,29.0,37.0,12.0,Man Utd
+230,Mané,mane,45.0,24.9,49.0,11.9,Liverpool
+210,Tielemans,tielemans,28.8,71.8,18.0,11.9,Leicester
+215,Barnes,barnes,10.4,5.9,100.0,11.6,Leicester
+109,Wood,wood,33.2,3.6,76.0,11.3,Burnley
+64,Trossard,trossard,42.0,26.3,43.0,11.1,Brighton
+33,Grealish,grealish,10.2,56.6,42.0,10.9,Man City
+110,Lowton,lowton,57.6,15.7,34.0,10.7,Burnley
+423,Fornals,fornals,38.2,26.8,41.0,10.6,West Ham
+233,Salah,salah,27.6,25.1,51.0,10.4,Liverpool
+55,Groß,groß,4.4,14.6,0.0,1.9,Brighton
+408,Fabianski,fabianski,18.6,0.0,0.0,1.9,West Ham
+162,Mitchell,mitchell,17.8,1.1,0.0,1.9,Crystal Palace
+244,Jones,jones,8.6,5.6,4.0,1.8,Liverpool
+556,Fernández,fernandez,18.2,0.0,0.0,1.8,Brentford
+284,Lindelöf,lindelof,17.2,0.7,0.0,1.8,Man Utd
+494,Romero,romero,16.0,0.4,2.0,1.8,Spurs
+213,Iheanacho,iheanacho,6.0,3.8,7.0,1.7,Leicester
+240,Jota,jota,4.2,10.8,2.0,1.7,Liverpool
+306,Hayden,hayden,16.6,0.6,0.0,1.7,Newcastle
+91,Pinnock,pinnock,16.4,1.0,0.0,1.7,Brentford
+62,Veltman,veltman,15.6,1.0,0.0,1.7,Brighton
+76,Jansson,jansson,15.2,0.1,2.0,1.7,Brentford
+112,Pope,pope,15.8,0.0,0.0,1.6,Burnley
+555,Varane,varane,15.6,0.3,0.0,1.6,Man Utd
+314,Krul,krul,15.4,0.1,0.0,1.6,Norwich
+594,Zanka,zanka,12.0,2.0,2.0,1.6,Brentford
+580,Kabak,kabak,11.8,0.4,4.0,1.6,Norwich
+495,Kucka,kucka,0.2,3.7,12.0,1.6,Watford
+153,Ayew,ayew,0.0,10.8,6.0,1.6,Crystal Palace
+478,Sambi Lokonga,sambi lokonga,5.2,2.1,8.0,1.5,Arsenal
+404,João Pedro,joao pedro,3.2,11.5,0.0,1.5,Watford
+170,Pickford,pickford,14.8,0.0,0.0,1.5,Everton
+488,Andersen,andersen,14.6,0.0,0.0,1.5,Crystal Palace
+229,van Dijk,van dijk,13.8,1.4,0.0,1.5,Liverpool
+197,Shackleton,shackleton,12.2,0.6,2.0,1.5,Leeds
+249,Walker,walker,8.2,4.2,2.0,1.4,Man City
+199,Meslier,meslier,14.4,0.0,0.0,1.4,Leeds
+387,Troost-Ekong,troost-ekong,14.0,0.2,0.0,1.4,Watford
+409,Ogbonna,ogbonna,13.4,0.3,0.0,1.4,West Ham
+171,Allan,allan,9.6,3.2,0.0,1.3,Everton
+83,Henry,henry,5.0,5.5,2.0,1.3,Brentford
+44,Cash,cash,4.4,0.9,8.0,1.3,Aston Villa
+472,Cucho,cucho,4.4,2.0,7.0,1.3,Watford
+291,Shelvey,shelvey,2.4,10.4,0.0,1.3,Newcastle
+42,El Ghazi,el ghazi,2.0,10.5,0.0,1.3,Aston Villa
+184,Cooper,cooper,12.8,0.0,0.0,1.3,Leeds
+150,Kouyaté,kouyate,12.6,0.3,0.0,1.3,Crystal Palace
+41,Nakamba,nakamba,9.8,2.6,0.0,1.2,Aston Villa
+84,Janelt,janelt,3.8,0.9,7.0,1.2,Brentford
+257,Ederson,ederson,11.8,0.0,0.0,1.2,Man City
+69,Sánchez,sanchez,11.6,0.0,0.0,1.2,Brighton
+128,Zouma,zouma,11.4,0.7,0.0,1.2,West Ham
+6,Lacazette,lacazette,1.2,3.2,8.0,1.2,Arsenal
+479,Onyeka,onyeka,1.0,3.4,8.0,1.2,Brentford
+364,Davies,davies,0.0,3.1,9.0,1.2,Spurs
+303,Krafth,krafth,10.0,0.9,0.0,1.1,Newcastle
+124,Barkley,barkley,1.8,8.9,0.0,1.1,Chelsea
+193,Roberts,roberts,0.2,10.3,0.0,1.1,Leeds
+294,Darlow,darlow,9.6,0.0,0.0,1.0,Newcastle
+400,Ngakia,ngakia,8.6,1.8,0.0,1.0,Watford
+208,Amartey,amartey,7.2,3.1,0.0,1.0,Leicester
+458,Soumaré,soumare,6.8,3.3,0.0,1.0,Leicester
+143,Mendy,mendy,10.2,0.0,0.0,1.0,Chelsea
+149,Benteke,benteke,1.2,0.5,8.0,1.0,Crystal Palace
+67,White,white,8.8,0.3,0.0,0.9,Arsenal
+252,Stones,stones,7.8,0.7,0.0,0.9,Man City
+45,Konsa,konsa,5.2,0.1,4.0,0.9,Aston Villa
+516,Sargent,sargent,4.6,4.1,0.0,0.9,Norwich
+89,Roerslev,roerslev,4.2,4.8,0.0,0.9,Brentford
+308,Almirón,almiron,0.4,0.5,8.0,0.9,Newcastle
+259,Laporte,laporte,0.0,12.2,0.0,0.9,Man City
+74,Mac Allister,mac allister,6.2,1.6,0.0,0.8,Brighton
+375,Ndombele,ndombele,5.0,2.8,0.0,0.8,Spurs
+353,Lloris,lloris,7.4,0.0,0.0,0.7,Spurs
+391,Sema,sema,2.6,4.0,0.0,0.7,Watford
+38,Mings,mings,2.0,0.8,4.0,0.7,Aston Villa
+373,Skipp,skipp,4.8,1.1,0.0,0.6,Spurs
+239,Keita,keita,3.4,2.1,0.0,0.6,Liverpool
+155,Schlupp,schlupp,1.4,0.2,4.0,0.6,Crystal Palace
+71,Lamptey,lamptey,1.2,0.5,4.0,0.6,Brighton
+75,Moder,moder,3.8,1.3,0.0,0.5,Brighton
+363,Dele,dele,0.8,2.1,2.0,0.5,Spurs
+315,Pukki,pukki,0.4,1.3,3.0,0.5,Norwich
+376,Foster,foster,4.0,0.0,0.0,0.4,Watford
+17,Pépé,pepe,2.6,0.9,0.0,0.4,Arsenal
+111,Vydra,vydra,1.2,0.3,2.0,0.4,Burnley
+455,Daka,daka,1.0,0.9,2.0,0.4,Leicester
+254,Mahrez,mahrez,0.0,1.4,4.0,0.4,Man City
+349,Diallo,diallo,3.4,0.0,0.0,0.3,Southampton
+270,de Gea,de gea,2.8,0.0,0.0,0.3,Man Utd
+504,Gbamin,gbamin,2.8,0.3,0.0,0.3,Everton
+586,Edouard,edouard,2.2,0.3,0.0,0.3,Crystal Palace
+582,Vlasic,vlasic,2.0,0.7,0.0,0.3,West Ham
+298,Fraser,fraser,0.6,0.7,2.0,0.3,Newcastle
+296,Wilson,wilson,0.0,1.6,6.0,0.3,Newcastle
+567,Lyanco,lyanco,2.2,0.0,0.0,0.2,Southampton
+592,Saúl,saul,2.0,0.3,0.0,0.2,Chelsea
+328,Placheta,placheta,0.0,0.0,2.0,0.2,Norwich
+369,Bergwijn,bergwijn,0.0,2.1,0.0,0.2,Spurs
+528,Tzolis,tzolis,1.2,0.1,0.0,0.1,Norwich
+438,Podence,podence,1.0,0.3,0.0,0.1,Wolves
+339,S.Armstrong,s.armstrong,0.4,0.5,0.0,0.1,Southampton
+418,Coufal,coufal,0.0,0.6,0.0,0.1,West Ham
+11,Kolasinac,kolasinac,0.2,0.2,0.0,0.0,Arsenal
+276,Lingard,lingard,0.2,0.1,0.0,0.0,Man Utd
+329,Idah,idah,0.2,0.1,0.0,0.0,Norwich
+434,Dendoncker,dendoncker,0.2,0.0,0.0,0.0,Wolves
+1,Leno,leno,0.0,0.0,0.0,0.0,Arsenal
+2,Rúnarsson,runarsson,0.0,0.0,0.0,0.0,Arsenal
+3,Willian,willian,0.0,0.0,0.0,0.0,Arsenal
+5,Cédric,cedric,0.0,0.0,0.0,0.0,Arsenal
+7,Xhaka,xhaka,0.0,0.0,0.0,0.0,Arsenal
+8,Marí,mari,0.0,0.0,0.0,0.0,Arsenal
+9,Bellerín,bellerin,0.0,0.0,0.0,0.0,Arsenal
+10,Chambers,chambers,0.0,0.0,0.0,0.0,Arsenal
+12,Elneny,elneny,0.0,0.0,0.0,0.0,Arsenal
+13,Maitland-Niles,maitland-niles,0.0,0.0,0.0,0.0,Arsenal
+14,Holding,holding,0.0,0.0,0.0,0.0,Arsenal
+16,Tierney,tierney,0.0,0.0,0.0,0.0,Arsenal
+18,Torreira,torreira,0.0,0.0,0.0,0.0,Arsenal
+19,Willock,willock,0.0,0.0,0.0,0.0,Newcastle
+20,Nketiah,nketiah,0.0,0.0,0.0,0.0,Arsenal
+24,Mavropanos,mavropanos,0.0,0.0,0.0,0.0,Arsenal
+25,Guendouzi,guendouzi,0.0,0.0,0.0,0.0,Arsenal
+26,Martinelli,martinelli,0.0,0.0,0.0,0.0,Arsenal
+27,Saliba,saliba,0.0,0.0,0.0,0.0,Arsenal
+28,Steer,steer,0.0,0.0,0.0,0.0,Aston Villa
+29,Hourihane,hourihane,0.0,0.0,0.0,0.0,Aston Villa
+31,Engels,engels,0.0,0.0,0.0,0.0,Aston Villa
+32,Traoré,traore,0.0,0.0,0.0,0.0,Aston Villa
+34,Sanson,sanson,0.0,0.0,0.0,0.0,Aston Villa
+37,Trézéguet,trezeguet,0.0,0.0,0.0,0.0,Aston Villa
+46,Guilbert,guilbert,0.0,0.0,0.0,0.0,Aston Villa
+47,Wesley,wesley,0.0,0.0,0.0,0.0,Aston Villa
+48,Samatta,samatta,0.0,0.0,0.0,0.0,Aston Villa
+49,Davis,davis,0.0,0.0,0.0,0.0,Aston Villa
+50,Douglas Luiz,douglas luiz,0.0,0.0,0.0,0.0,Aston Villa
+51,Ramsey,ramsey,0.0,0.5,0.0,0.0,Aston Villa
+54,Steele,steele,0.0,0.0,0.0,0.0,Brighton
+57,Pröpper,propper,0.0,0.0,0.0,0.0,Brighton
+58,Burn,burn,0.0,0.0,0.0,0.0,Brighton
+61,Webster,webster,0.0,0.0,0.0,0.0,Brighton
+63,Maupay,maupay,0.0,0.0,0.0,0.0,Brighton
+65,Ryan,ryan,0.0,0.0,0.0,0.0,Brighton
+66,Jahanbakhsh,jahanbakhsh,0.0,0.0,0.0,0.0,Brighton
+68,Bernardo,bernardo,0.0,0.0,0.0,0.0,Brighton
+72,Connolly,connolly,0.0,0.0,0.0,0.0,Brighton
+73,Alzate,alzate,0.0,0.0,0.0,0.0,Brighton
+79,Fosu,fosu,0.0,0.0,0.0,0.0,Brentford
+80,Raya,raya,0.0,0.0,0.0,0.0,Brentford
+82,Dasilva,dasilva,0.0,0.0,0.0,0.0,Brentford
+87,Goode,goode,0.0,0.0,0.0,0.0,Brentford
+90,Sørensen,sørensen,0.0,0.0,0.0,0.0,Brentford
+92,Balcombe,balcombe,0.0,0.0,0.0,0.0,Brentford
+93,Zamburek,zamburek,0.0,0.0,0.0,0.0,Brentford
+94,Gunnarsson,gunnarsson,0.0,0.0,0.0,0.0,Brentford
+95,Dervişoğlu,dervisoglu,0.0,0.0,0.0,0.0,Brentford
+96,Mbeumo,mbeumo,0.0,0.0,0.0,0.0,Brentford
+97,Bidstrup,bidstrup,0.0,0.0,0.0,0.0,Brentford
+99,Bardsley,bardsley,0.0,0.0,0.0,0.0,Burnley
+100,Pieters,pieters,0.0,0.0,0.0,0.0,Burnley
+101,Cork,cork,0.0,0.0,0.0,0.0,Burnley
+102,Stephens,stephens,0.0,0.0,0.0,0.0,Burnley
+103,Long,long,0.0,0.0,0.0,0.0,Burnley
+104,Rodriguez,rodriguez,0.0,0.0,0.0,0.0,Burnley
+105,Barnes,barnes,0.0,0.0,0.0,0.0,Burnley
+114,Norris,norris,0.0,0.0,0.0,0.0,Burnley
+116,Benson,benson,0.0,0.0,0.0,0.0,Burnley
+117,Peacock-Farrell,peacock-farrell,0.0,0.0,0.0,0.0,Burnley
+119,Azpilicueta,azpilicueta,0.0,0.0,0.0,0.0,Chelsea
+120,Giroud,giroud,0.0,0.0,0.0,0.0,Chelsea
+122,Alonso,alonso,0.0,0.0,0.0,0.0,Chelsea
+125,Kovacic,kovacic,0.0,0.0,0.0,0.0,Chelsea
+126,Batshuayi,batshuayi,0.0,0.0,0.0,0.0,Chelsea
+129,Arrizabalaga,arrizabalaga,0.0,0.0,0.0,0.0,Chelsea
+134,Werner,werner,0.0,0.0,0.0,0.0,Chelsea
+136,Abraham,abraham,0.0,0.0,0.0,0.0,Chelsea
+137,Pulisic,pulisic,0.0,0.0,0.0,0.0,Chelsea
+138,Mount,mount,0.0,0.0,0.0,0.0,Chelsea
+139,Ampadu,ampadu,0.0,0.0,0.0,0.0,Chelsea
+145,Gilmour,gilmour,0.0,0.0,0.0,0.0,Norwich
+147,Tomkins,tomkins,0.0,0.0,0.0,0.0,Crystal Palace
+151,Kelly,kelly,0.0,0.0,0.0,0.0,Crystal Palace
+152,Milivojevic,milivojevic,0.0,0.0,0.0,0.0,Crystal Palace
+156,Butland,butland,0.0,0.0,0.0,0.0,Crystal Palace
+157,Riedewald,riedewald,0.0,0.0,0.0,0.0,Crystal Palace
+158,Jach,jach,0.0,0.0,0.0,0.0,Crystal Palace
+159,Mateta,mateta,0.0,0.0,0.0,0.0,Crystal Palace
+160,Eze,eze,0.0,0.0,0.0,0.0,Crystal Palace
+161,Ferguson,ferguson,0.0,0.0,0.0,0.0,Crystal Palace
+164,Sigurdsson,sigurdsson,0.0,0.0,0.0,0.0,Everton
+166,James,james,0.0,0.0,0.0,0.0,Everton
+167,Bernard,bernard,0.0,0.0,0.0,0.0,Everton
+168,Digne,digne,0.0,0.0,0.0,0.0,Everton
+172,André Gomes,andre gomes,0.0,0.0,0.0,0.0,Everton
+173,Doucouré,doucoure,0.0,0.0,0.0,0.0,Everton
+175,Mina,mina,0.0,0.0,0.0,0.0,Everton
+176,Davies,davies,0.0,0.0,0.0,0.0,Everton
+177,Calvert-Lewin,calvert-lewin,0.0,0.0,0.0,0.0,Everton
+181,Virgínia,virginia,0.0,0.0,0.0,0.0,Everton
+182,Hernández,hernandez,0.0,0.0,0.0,0.0,Leeds
+183,Casilla,casilla,0.0,0.0,0.0,0.0,Leeds
+185,Ayling,ayling,0.0,0.0,0.0,0.0,Leeds
+186,Klich,klich,0.0,0.0,0.0,0.0,Leeds
+189,Bamford,bamford,0.0,0.0,0.0,0.0,Leeds
+192,Costa,costa,0.0,0.0,0.0,0.0,Leeds
+194,Koch,koch,0.0,0.0,0.0,0.0,Leeds
+195,Poveda,poveda,0.0,0.0,0.0,0.0,Leeds
+202,Albrighton,albrighton,0.0,0.0,0.0,0.0,Leicester
+203,Mendy,mendy,0.0,0.0,0.0,0.0,Leicester
+204,Ward,ward,0.0,0.0,0.0,0.0,Leicester
+206,Praet,praet,0.0,0.0,0.0,0.0,Leicester
+207,Pereira,pereira,0.0,0.0,0.0,0.0,Leicester
+211,Pérez,perez,0.0,0.0,0.0,0.0,Leicester
+214,Choudhury,choudhury,0.0,0.0,0.0,0.0,Leicester
+216,Ndidi,ndidi,0.0,0.0,0.0,0.0,Leicester
+218,Justin,justin,0.0,0.0,0.0,0.0,Leicester
+220,Fofana,fofana,0.0,0.0,0.0,0.0,Leicester
+221,Milner,milner,0.0,0.0,0.0,0.0,Liverpool
+223,Adrián,adrian,0.0,0.0,0.0,0.0,Liverpool
+224,Matip,matip,0.0,0.0,0.0,0.0,Liverpool
+225,Thiago,thiago,0.0,0.0,0.0,0.0,Liverpool
+226,Shaqiri,shaqiri,0.0,0.0,0.0,0.0,Liverpool
+232,Fabinho,fabinho,0.0,0.0,0.0,0.0,Liverpool
+235,Origi,origi,0.0,0.0,0.0,0.0,Liverpool
+236,Minamino,minamino,0.0,0.3,0.0,0.0,Liverpool
+238,Gomez,gomez,0.0,0.0,0.0,0.0,Liverpool
+241,Phillips,phillips,0.0,0.0,0.0,0.0,Liverpool
+242,Kelleher,kelleher,0.0,0.0,0.0,0.0,Liverpool
+245,Tsimikas,tsimikas,0.0,0.0,0.0,0.0,Liverpool
+246,N.Williams,n.williams,0.0,0.0,0.0,0.0,Liverpool
+247,R.Williams,r.williams,0.0,0.0,0.0,0.0,Liverpool
+248,Davies,davies,0.0,0.0,0.0,0.0,Liverpool
+250,Gündogan,gundogan,0.0,0.0,0.0,0.0,Man City
+253,Mendy,mendy,0.0,0.0,0.0,0.0,Man City
+258,Aké,ake,0.0,0.0,0.0,0.0,Man City
+260,Steffen,steffen,0.0,0.0,0.0,0.0,Man City
+264,Zinchenko,zinchenko,0.0,0.0,0.0,0.0,Man City
+268,Torres,torres,0.0,0.0,0.0,0.0,Man City
+272,Pogba,pogba,0.0,0.0,0.0,0.0,Man Utd
+278,Martial,martial,0.0,0.0,0.0,0.0,Man Utd
+279,Telles,telles,0.0,0.0,0.0,0.0,Man Utd
+280,Henderson,henderson,0.0,0.0,0.0,0.0,Man Utd
+282,van de Beek,van de beek,0.0,0.0,0.0,0.0,Man Utd
+283,Tuanzebe,tuanzebe,0.0,0.0,0.0,0.0,Aston Villa
+286,Bailly,bailly,0.0,0.0,0.0,0.0,Man Utd
+289,Greenwood,greenwood,0.0,0.0,0.0,0.0,Man Utd
+290,Williams,williams,0.0,0.0,0.0,0.0,Norwich
+295,Dubravka,dubravka,0.0,0.0,0.0,0.0,Newcastle
+297,Hendrick,hendrick,0.0,0.0,0.0,0.0,Newcastle
+300,Gayle,gayle,0.0,0.0,0.0,0.0,Newcastle
+301,Dummett,dummett,0.0,0.0,0.0,0.0,Newcastle
+304,Murphy,murphy,0.0,0.0,0.0,0.0,Newcastle
+305,Schär,schar,0.0,0.0,0.0,0.0,Newcastle
+310,Joelinton,joelinton,0.0,0.0,0.0,0.0,Newcastle
+311,Lewis,lewis,0.0,0.0,0.0,0.0,Newcastle
+312,M.Longstaff,m.longstaff,0.0,0.0,0.0,0.0,Newcastle
+313,McGovern,mcgovern,0.0,0.0,0.0,0.0,Norwich
+316,Stiepermann,stiepermann,0.0,0.0,0.0,0.0,Norwich
+317,Rupp,rupp,0.0,0.0,0.0,0.0,Norwich
+320,Hernández,hernandez,0.0,0.0,0.0,0.0,Norwich
+321,Byram,byram,0.0,0.0,0.0,0.0,Norwich
+322,Hugill,hugill,0.0,0.0,0.0,0.0,Norwich
+324,Zimmermann,zimmermann,0.0,0.0,0.0,0.0,Norwich
+325,Cantwell,cantwell,0.0,0.0,0.0,0.0,Norwich
+327,Sørensen,sørensen,0.0,0.0,0.0,0.0,Norwich
+330,Martin,martin,0.0,0.0,0.0,0.0,Norwich
+332,Walcott,walcott,0.0,0.0,0.0,0.0,Southampton
+333,Forster,forster,0.0,0.0,0.0,0.0,Southampton
+337,Ings,ings,0.0,0.0,0.0,0.0,Aston Villa
+338,Stephens,stephens,0.0,0.0,0.0,0.0,Southampton
+340,Vestergaard,vestergaard,0.0,0.0,0.0,0.0,Leicester
+344,Nlundulu,nlundulu,0.0,0.0,0.0,0.0,Southampton
+346,Tella,tella,0.0,0.0,0.0,0.0,Southampton
+347,Smallbone,smallbone,0.0,0.0,0.0,0.0,Southampton
+348,Obafemi,obafemi,0.0,0.0,0.0,0.0,Southampton
+350,Djenepo,djenepo,0.0,0.0,0.0,0.0,Southampton
+352,Hart,hart,0.0,0.0,0.0,0.0,Spurs
+355,Alderweireld,alderweireld,0.0,0.0,0.0,0.0,Spurs
+356,Lamela,lamela,0.0,0.0,0.0,0.0,Spurs
+358,Aurier,aurier,0.0,0.0,0.0,0.0,Spurs
+360,Doherty,doherty,0.0,0.0,0.0,0.0,Spurs
+366,Winks,winks,0.0,0.0,0.0,0.0,Spurs
+367,Sánchez,sanchez,0.0,0.0,0.0,0.0,Spurs
+368,Sessegnon,sessegnon,0.0,0.0,0.0,0.0,Spurs
+370,Reguilón,reguilon,0.0,0.0,0.0,0.0,Spurs
+371,Tanganga,tanganga,0.0,0.0,0.0,0.0,Spurs
+374,Rodon,rodon,0.0,0.0,0.0,0.0,Spurs
+377,Rose,rose,0.0,0.0,0.0,0.0,Watford
+378,Gosling,gosling,0.0,0.0,0.0,0.0,Watford
+380,Deeney,deeney,0.0,0.0,0.0,0.0,Watford
+382,Femenía,femenia,0.0,0.0,0.0,0.0,Watford
+383,Gray,gray,0.0,0.0,0.0,0.0,Watford
+384,Kabasele,kabasele,0.0,0.0,0.0,0.0,Watford
+385,Chalobah,chalobah,0.0,0.0,0.0,0.0,Watford
+386,Hughes,hughes,0.0,0.0,0.0,0.0,Crystal Palace
+388,Perica,perica,0.0,0.0,0.0,0.0,Watford
+389,Bachmann,bachmann,0.0,0.0,0.0,0.0,Watford
+392,Zinckernagel,zinckernagel,0.0,0.0,0.0,0.0,Watford
+393,Success,success,0.0,0.0,0.0,0.0,Watford
+394,Dele-Bashiru,dele-bashiru,0.0,0.0,0.0,0.0,Watford
+396,Sierralta,sierralta,0.0,0.0,0.0,0.0,Watford
+397,Quina,quina,0.0,0.0,0.0,0.0,Watford
+398,Navarro,navarro,0.0,0.0,0.0,0.0,Watford
+401,Wilmot,wilmot,0.0,0.0,0.0,0.0,Watford
+402,Hungbo,hungbo,0.0,0.0,0.0,0.0,Watford
+403,Louza,louza,0.0,0.0,0.0,0.0,Watford
+405,Baah,baah,0.0,0.0,0.0,0.0,Watford
+406,Noble,noble,0.0,0.0,0.0,0.0,West Ham
+407,Randolph,randolph,0.0,0.0,0.0,0.0,West Ham
+410,Reid,reid,0.0,0.0,0.0,0.0,West Ham
+412,Yarmolenko,yarmolenko,0.0,0.0,0.0,0.0,West Ham
+414,Dawson,dawson,0.0,0.0,0.0,0.0,West Ham
+415,Fredericks,fredericks,0.0,0.0,0.0,0.0,West Ham
+417,Masuaku,masuaku,0.0,0.0,0.0,0.0,West Ham
+424,Diop,diop,0.0,0.0,0.0,0.0,West Ham
+427,Patrício,patricio,0.0,0.0,0.0,0.0,Wolves
+428,Boly,boly,0.0,0.0,0.0,0.0,Wolves
+432,Marçal,marcal,0.0,0.0,0.0,0.0,Wolves
+433,Jonny,jonny,0.0,0.0,0.0,0.0,Wolves
+435,Traoré,traore,0.0,0.0,0.0,0.0,Wolves
+440,Gibbs-White,gibbs-white,0.0,0.0,0.0,0.0,Wolves
+441,Neto,neto,0.0,0.0,0.0,0.0,Wolves
+442,Otasowie,otasowie,0.0,0.0,0.0,0.0,Wolves
+443,Hoever,hoever,0.0,0.0,0.0,0.0,Wolves
+444,Söndergaard,sondergaard,0.0,0.0,0.0,0.0,Wolves
+445,Fabio Silva,fabio silva,0.0,0.0,0.0,0.0,Wolves
+446,Mosquera,mosquera,0.0,0.0,0.0,0.0,Wolves
+447,Welbeck,welbeck,0.0,0.0,0.0,0.0,Brighton
+448,Gunn,gunn,0.0,0.0,0.0,0.0,Norwich
+450,Dennis,dennis,0.0,0.0,0.0,0.0,Watford
+451,Collins,collins,0.0,0.0,0.0,0.0,Burnley
+452,Ruddy,ruddy,0.0,0.0,0.0,0.0,Wolves
+453,Fernandinho,fernandinho,0.0,0.0,0.0,0.0,Man City
+454,Pollock,pollock,0.0,0.0,0.0,0.0,Watford
+456,Gibson,gibson,0.0,0.0,0.0,0.0,Norwich
+457,Giannoulis,giannoulis,0.0,0.0,0.0,0.0,Norwich
+459,Mata,mata,0.0,0.0,0.0,0.0,Man Utd
+460,Perraud,perraud,0.0,0.0,0.0,0.0,Southampton
+463,Firpo,firpo,0.0,0.0,0.0,0.0,Leeds
+465,Fernández,fernandez,0.0,0.0,0.0,0.0,Newcastle
+467,Etebo,etebo,0.0,0.0,0.0,0.0,Watford
+469,Mebude,mebude,0.0,0.0,0.0,0.0,Watford
+471,Lees-Melou,lees-melou,0.0,0.0,0.0,0.0,Norwich
+473,Bertrand,bertrand,0.0,0.0,0.0,0.0,Leicester
+476,Scherpen,scherpen,0.0,0.0,0.0,0.0,Brighton
+480,Hennessey,hennessey,0.0,0.0,0.0,0.0,Burnley
+481,Begović,begovic,0.0,0.0,0.0,0.0,Everton
+483,Ajer,ajer,0.0,0.0,0.0,0.0,Brentford
+485,Sancho,sancho,0.0,0.0,0.0,0.0,Man Utd
+486,Gollini,gollini,0.0,0.0,0.0,0.0,Spurs
+487,Bryan,bryan,0.0,0.0,0.0,0.0,Spurs
+489,Areola,areola,0.0,0.0,0.0,0.0,West Ham
+490,Klaesson,klaesson,0.0,0.0,0.0,0.0,Leeds
+493,Clyne,clyne,0.0,0.0,0.0,0.0,Crystal Palace
+496,Ramsey,ramsey,0.0,0.0,0.0,0.0,Aston Villa
+497,Philogene-Bidace,philogene-bidace,0.0,0.0,0.0,0.0,Aston Villa
+498,Thompson,thompson,0.0,0.0,0.0,0.0,Brentford
+499,Baptiste,baptiste,0.0,0.0,0.0,0.0,Brentford
+500,Andone,andone,0.0,0.0,0.0,0.0,Brighton
+501,Sarr,sarr,0.0,0.0,0.0,0.0,Chelsea
+502,Kenny,kenny,0.0,0.0,0.0,0.0,Everton
+505,Dewsbury-Hall,dewsbury-hall,0.0,0.0,0.0,0.0,Leicester
+506,Elliott,elliott,0.0,0.0,0.0,0.0,Liverpool
+507,Palmer,palmer,0.0,0.0,0.0,0.0,Man City
+508,Edozie,edozie,0.0,0.0,0.0,0.0,Man City
+509,Heaton,heaton,0.0,0.0,0.0,0.0,Man Utd
+510,Dalot,dalot,0.0,0.0,0.0,0.0,Man Utd
+511,Pereira,pereira,0.0,0.0,0.0,0.0,Man Utd
+512,Elanga,elanga,0.0,0.0,0.0,0.0,Man Utd
+513,Woodman,woodman,0.0,0.0,0.0,0.0,Newcastle
+514,Gillespie,gillespie,0.0,0.0,0.0,0.0,Newcastle
+515,Mumba,mumba,0.0,0.0,0.0,0.0,Norwich
+518,Broja,broja,0.0,0.0,0.0,0.0,Southampton
+519,Long,long,0.0,0.0,0.0,0.0,Southampton
+520,Scarlett,scarlett,0.0,0.0,0.0,0.0,Spurs
+521,Alves,alves,0.0,0.0,0.0,0.0,West Ham
+522,Coventry,coventry,0.0,0.0,0.0,0.0,West Ham
+523,Cutrone,cutrone,0.0,0.0,0.0,0.0,Wolves
+524,Wissa,wissa,0.0,0.0,0.0,0.0,Brentford
+526,Chukwuemeka,chukwuemeka,0.0,0.0,0.0,0.0,Aston Villa
+527,Chalobah,chalobah,0.0,0.0,0.0,0.0,Chelsea
+529,Lukaku,lukaku,0.0,0.0,0.0,0.0,Chelsea
+530,Balogun,balogun,0.0,0.0,0.0,0.0,Arsenal
+531,Nelson,nelson,0.0,0.0,0.0,0.0,Arsenal
+532,Hein,hein,0.0,0.0,0.0,0.0,Arsenal
+533,Richardson,richardson,0.0,0.0,0.0,0.0,Burnley
+534,Thomas,thomas,0.0,0.0,0.0,0.0,Burnley
+535,Zeqiri,zeqiri,0.0,0.0,0.0,0.0,Brighton
+536,Karbownik,karbownik,0.0,0.0,0.0,0.0,Brighton
+537,Richards,richards,0.0,0.0,0.0,0.0,Brighton
+538,Caicedo,caicedo,0.0,0.0,0.0,0.0,Brighton
+539,Emerson,emerson,0.0,0.0,0.0,0.0,Chelsea
+540,Hannam,hannam,0.0,0.0,0.0,0.0,Crystal Palace
+541,Rak-Sakyi,rak-sakyi,0.0,0.0,0.0,0.0,Crystal Palace
+542,Street,street,0.0,0.0,0.0,0.0,Crystal Palace
+543,Banks,banks,0.0,0.0,0.0,0.0,Crystal Palace
+544,Branthwaite,branthwaite,0.0,0.0,0.0,0.0,Everton
+545,Broadhead,broadhead,0.0,0.0,0.0,0.0,Everton
+546,Valery,valery,0.0,0.0,0.0,0.0,Southampton
+547,Cundle,cundle,0.0,0.0,0.0,0.0,Wolves
+548,Campbell,campbell,0.0,0.0,0.0,0.0,Wolves
+549,Marques,marques,0.0,0.0,0.0,0.0,Wolves
+550,Greenwood,greenwood,0.0,0.0,0.0,0.0,Leeds
+551,Summerville,summerville,0.0,0.0,0.0,0.0,Leeds
+553,Woodburn,woodburn,0.0,0.0,0.0,0.0,Liverpool
+554,Baptiste,baptiste,0.0,0.0,0.0,0.0,West Ham
+557,Tufan,tufan,0.0,0.0,0.0,0.0,Watford
+560,Roberts,roberts,0.0,0.0,0.0,0.0,Brighton
+561,Matthews,matthews,0.0,0.0,0.0,0.0,Crystal Palace
+562,Drameh,drameh,0.0,0.3,0.0,0.0,Leeds
+563,Cresswell,cresswell,0.0,0.0,0.0,0.0,Leeds
+564,Kean,kean,0.0,0.0,0.0,0.0,Everton
+565,Dodgson,dodgson,0.0,0.0,0.0,0.0,Burnley
+566,Doyle,doyle,0.0,0.0,0.0,0.0,Man City
+568,Archer,archer,0.0,0.0,0.0,0.0,Aston Villa
+569,Stevens,stevens,0.0,0.0,0.0,0.0,Brentford
+570,Nkounkou,nkounkou,0.0,0.0,0.0,0.0,Everton
+571,Lonergan,lonergan,0.0,0.0,0.0,0.0,Everton
+572,Okonkwo,okonkwo,0.0,0.0,0.0,0.0,Arsenal
+573,Jakupovic,jakupovic,0.0,0.0,0.0,0.0,Leicester
+574,Elliot,elliot,0.0,0.0,0.0,0.0,Watford
+575,Lennon,lennon,0.0,0.0,0.0,0.0,Burnley
+576,McCarron,mccarron,0.0,0.0,0.0,0.0,Leeds
+577,Gelhardt,gelhardt,0.0,0.0,0.0,0.0,Leeds
+585,Roberts,roberts,0.0,0.0,0.0,0.0,Burnley
+589,Kral,kral,0.0,0.0,0.0,0.0,West Ham
+591,Rondón,rondon,0.0,0.0,0.0,0.0,Everton
+593,Carson,carson,0.0,0.0,0.0,0.0,Man City
+595,Locadia,locadia,0.0,0.0,0.0,0.0,Brighton
+596,Sinisalo,sinisalo,0.0,0.0,0.0,0.0,Aston Villa
+597,Markanday,markanday,0.0,0.0,0.0,0.0,Spurs
+598,Omole,omole,0.0,0.0,0.0,0.0,Spurs
+599,White,white,0.0,0.0,0.0,0.0,Newcastle
+600,Kenneh,kenneh,0.0,0.0,0.0,0.0,Leeds
+601,McKinstry,mckinstry,0.0,0.0,0.0,0.0,Leeds
+602,Simms,simms,0.0,0.0,0.0,0.0,Everton
+603,Mbete,mbete,0.0,0.0,0.0,0.0,Man City
+604,Wilson-Esbrand,wilson-esbrand,0.0,0.0,0.0,0.0,Man City
+605,Lavia,lavia,0.0,0.0,0.0,0.0,Man City
+606,Bettinelli,bettinelli,0.0,0.0,0.0,0.0,Chelsea
+607,Dobbin,dobbin,0.0,0.0,0.0,0.0,Everton
+608,Hjelde,hjelde,0.0,0.0,0.0,0.0,Leeds
+609,Anderson,anderson,0.0,0.0,0.0,0.0,Newcastle
+610,Bogarde,bogarde,0.0,0.0,0.0,0.0,Aston Villa
